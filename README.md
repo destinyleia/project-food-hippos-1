@@ -8,7 +8,7 @@ Your page will be built based on a random combination of cuisine, city, and desi
 
 ## Your team's combination: Doughnut shop restaurants in San Francisco
 
-Your team has been tasked with using the Zomato API to list Doughnut shop restaurants in San Francisco
+Your team has been tasked with using the Zomato API to list Doughnut shop restaurants in San Francisco in the style of the Wolt site:
 ![Wolt](https://camo.githubusercontent.com/f7553b7451b913bfeb3b3d3217eb4247b8d5bc1d/68747470733a2f2f692e696d6775722e636f6d2f4d6c4e4a4959442e706e67)
 
 ## How to complete this task
