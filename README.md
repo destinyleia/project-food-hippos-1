@@ -6,9 +6,10 @@ During the session your team will be challenged to build a website that lists re
 
 Your page will be built based on a random combination of cuisine, city, and design provided by the Technigo team on site. All data should be fetched from the [Zomato API.](https://developers.zomato.com/)  
 
-## Your team's combination: [cuisine] restaurants in [city]
+## Your team's combination: Doughnut shop restaurants in San Francisco
 
-Your team has been tasked with using the Zomato API to list [cuisine] restaurants in [city]
+Your team has been tasked with using the Zomato API to list Doughnut shop restaurants in San Francisco
+![Wolt](https://camo.githubusercontent.com/f7553b7451b913bfeb3b3d3217eb4247b8d5bc1d/68747470733a2f2f692e696d6775722e636f6d2f4d6c4e4a4959442e706e67)
 
 ## How to complete this task
 
