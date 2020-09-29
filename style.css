@@ -1,0 +1,26 @@
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.restaurant-item {
+    border: 1px solid grey;
+    display: flex;
+    flex-direction: column;
+    width: 17%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+section h2 {
+    margin-left: 15px;
+}
+
+section img {
+    width: 100%;
+}
+
+section p {
+    margin: 2px 0 2px 15px;
+}
