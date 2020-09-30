@@ -64,7 +64,7 @@ function generateRestaurantsHTML(item) {
       if(restaurantImageURLFromAPI) {
         return restaurantImageURLFromAPI;
       } else {
-        return './img_placeholder.png' //Put here path to the image placeholder for restaurant without a feature_image value
+        return './images/donut.jpg' //Put here path to the image placeholder for restaurant without a feature_image value
       }
     };
 };
